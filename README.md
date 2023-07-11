@@ -9,8 +9,7 @@ This challenge is to build the product preview card component and get it looking
 
 # Screenshot
 
-![Captura2](https://github.com/AndresF-SanchezG/reto2/assets/113924667/98d40898-d7e0-4e7b-a02c-32fcccb73d39)
-
+![Captura2](https://github.com/AndresF-SanchezG/reto3/assets/113924667/7bc7ff39-a0a8-4766-a8d4-de35ddf46905)
 
 # Links
 
@@ -20,4 +19,4 @@ This challenge is to build the product preview card component and get it looking
 
 - Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
-- Challenge - [QR code component](https://www.frontendmentor.io/solutions/html-css-6nXLfcGDZj)
+- Challenge - [NFT preview card component](https://www.frontendmentor.io/solutions/construir-un-componente-de-tarjeta-78aMDiewvc)
