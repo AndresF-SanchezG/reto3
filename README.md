@@ -14,7 +14,7 @@ This challenge is to build the product preview card component and get it looking
 
 # Links
 
-- Live Site URL: [Vercel deployed app](https://reto2-lovat.vercel.app/)
+- Live Site URL: [Vercel deployed app](https://reto3-sigma.vercel.app/)
 
 # Author
 
