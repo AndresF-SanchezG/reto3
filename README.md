@@ -17,6 +17,6 @@ This challenge is to build the product preview card component and get it looking
 
 # Author
 
-- Autor - [@AndresF-SanchezG](https://github.com/AndresF-Sanchez)
+- Autor - [@AndresF-SanchezG](https://github.com/AndresF-SanchezG)
 - School - [Frontend Mentor](https://www.frontendmentor.io/profile/AndresF-SanchezG)
 - Challenge - [NFT preview card component](https://www.frontendmentor.io/solutions/construir-un-componente-de-tarjeta-78aMDiewvc)
