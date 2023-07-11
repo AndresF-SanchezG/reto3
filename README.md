@@ -1,4 +1,4 @@
-#NFT preview card component
+# NFT preview card component
 
 This challenge is to build the product preview card component and get it looking as close to the design as possible.
 
